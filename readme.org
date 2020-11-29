@@ -66,6 +66,5 @@ The Elstob font (named for the eighteenth-century Anglo-Saxonist Elizabeth Elsto
 ** [[https://juliamono.netlify.app/][Juliana Mono]]
 Repo: https://github.com/cormullion/juliamono
 
-## [[https://manropefont.com/][Manrope Font]]
-
+** [[https://manropefont.com/][Manrope Font]]
 [[https://www.webdesignerdepot.com/cdn-origin/uploads/2020/08/manrope-1536x1059.png]]
